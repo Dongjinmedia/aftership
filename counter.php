@@ -9,13 +9,3 @@ $count = mysql_fetch_row(mysql_query("SELECT counter FROM counter"));
 //Displays the count on your site
 print "$count[0]";
 ?>
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                                                                                                          
-~                               
